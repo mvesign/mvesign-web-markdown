@@ -1,0 +1,14 @@
+.textarea {
+    background-color: #FFF;
+    border: 1px solid #DDD;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px;
+}
